@@ -1,0 +1,3 @@
+18 anni, stenografa e devota seguace del [[Tempio di Nephti]]. Frequenta le "Comunioni con i Morti" (séance) di [[Madame Isis]]. 
+Farebbe qualsiasi cosa per [[Madame Isis]], che a volte canalizza lo spirito della sorella maggiore di Pearl, Louisa, per rafforzare la sua devozione. 
+È descritta come una ragazza che sembra appena adolescente, che indossa un semplice abito e ha un'andatura leggermente incerta sui tacchi. Ha cercato [[George Preston]] alle [[Riparazioni Elettriche Fuller]]

@@ -1,0 +1,1 @@
+Passi da zero a furiosa nel battito di un ciglio. Che sia per giustizia o per dignità personale, questo tuo temperamento pesa sulle relazioni — e anche sul lavoro.

@@ -1,0 +1,3 @@
+52 anni, sacerdotessa del [[Tempio di Nephti]]. Il suo nome di battesimo è **Bertha Cook**. Ha fondato la sua chiesa dopo aver lavorato come "medium" nei baracconi. 
+È essenzialmente una truffatrice, ma è aperta all'esistenza degli spiriti. 
+È descritta come una donna imponente. Offre "Comunioni con i Morti" tre sere a settimana e su appuntamento privato, mescolando pseudo-mitologia egizia con lo spiritualismo americano

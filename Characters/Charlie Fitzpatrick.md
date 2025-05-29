@@ -1,0 +1,2 @@
+23 anni, la migliore amica della vittima. È una donna dall'aspetto rude e talentuosa, che lavora come elettricista al fianco di [[George Preston]]. Si sente in colpa e ansiosa per aver liquidato George la notte in cui è scomparso. 
+A volte fa lavori per "altri clienti" di notte per guadagnare denaro extra. Taglia i capelli corti in uno stile "mascolino" e usa l'ironia per anticipare la sorpresa sul suo genere

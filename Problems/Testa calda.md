@@ -1,0 +1,1 @@
+Ogni buon reporter ricorda almeno una volta in cui il suo fiuto per la notizia lo ha messo in pericolo. Tu, invece? Ricordi giusto quelle rare volte in cui **non** è successo

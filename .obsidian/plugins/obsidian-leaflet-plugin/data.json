@@ -1,0 +1,626 @@
+{
+  "mapMarkers": [
+    {
+      "id": 1,
+      "lastAccessed": 1748557676092,
+      "markers": [
+        {
+          "id": "ID_688bab0a4ab8",
+          "type": "default",
+          "loc": [
+            802.7614424115823,
+            573.5
+          ],
+          "link": "Sadie Cain",
+          "layer": "%5B%5BRelationship%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab38bbfb190b",
+          "type": "default",
+          "loc": [
+            727.7411466947219,
+            291.5
+          ],
+          "link": "Marty Boccalarga",
+          "layer": "%5B%5BRelationship%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1a288aeb394a",
+          "type": "default",
+          "loc": [
+            610.7094853764196,
+            289.5
+          ],
+          "link": "Charlie Fietzpatrick",
+          "layer": "%5B%5BRelationship%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_dbeb0a1a0abb",
+          "type": "default",
+          "loc": [
+            428.6602344368383,
+            286.5
+          ],
+          "link": "Howard Fuller",
+          "layer": "%5B%5BRelationship%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4839890989c8",
+          "type": "default",
+          "loc": [
+            566.0307111322652,
+            572.166748046875
+          ],
+          "link": "George Preston",
+          "layer": "%5B%5BRelationship%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5869084bdae9",
+          "type": "default",
+          "loc": [
+            324.96549422875364,
+            566.166748046875
+          ],
+          "link": "Madame Isis",
+          "layer": "%5B%5BRelationship%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cac8c9ebdb08",
+          "type": "default",
+          "loc": [
+            140.58229888409426,
+            433.8333740234375
+          ],
+          "link": "Pearl Leblanc",
+          "layer": "%5B%5BRelationship%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3aab2a593ab9",
+          "type": "default",
+          "loc": [
+            173.59122899951285,
+            705.8333740234375
+          ],
+          "link": "Addie Sims",
+          "layer": "%5B%5BRelationship%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8b79f90aea48",
+          "type": "default",
+          "loc": [
+            373.9788151487753,
+            859.8333740234375
+          ],
+          "link": "Clarence Simpson",
+          "layer": "%5B%5BRelationship%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a59a85b0a19",
+          "type": "default",
+          "loc": [
+            730.0751521514728,
+            904.8333740234375
+          ],
+          "link": "Hereward Carrington",
+          "layer": "%5B%5BRelationship%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Summary.md"
+      ]
+    },
+    {
+      "id": 2,
+      "lastAccessed": 1748557676092,
+      "markers": [
+        {
+          "id": "ID_b96b2b09697a",
+          "type": "default",
+          "loc": [
+            930.1954045216455,
+            239.5
+          ],
+          "link": "La Storia Triste di Sadie",
+          "layer": "%5B%5Bscene_flow.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1a98c89a8b39",
+          "type": "default",
+          "loc": [
+            814.1640138129013,
+            229.5
+          ],
+          "link": "Riparazioni Elettriche Fuller",
+          "layer": "%5B%5Bscene_flow.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_98595aea0a39",
+          "type": "default",
+          "loc": [
+            678.1272109129945,
+            245.5
+          ],
+          "link": "Affascinante Charlie",
+          "layer": "%5B%5Bscene_flow.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_08088ac87929",
+          "type": "default",
+          "loc": [
+            550.0925728895527,
+            247.5
+          ],
+          "link": "L'Investigatrice Psichica",
+          "layer": "%5B%5Bscene_flow.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aa580969f9ca",
+          "type": "default",
+          "loc": [
+            809.4960639510724,
+            460.5
+          ],
+          "link": "La Particolare Morte di Myron Fink",
+          "layer": "%5B%5Bscene_flow.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_188ac8b8e82a",
+          "type": "default",
+          "loc": [
+            681.4614259276307,
+            438.5
+          ],
+          "link": "Fuller",
+          "layer": "%5B%5Bscene_flow.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_98eba92a98aa",
+          "type": "default",
+          "loc": [
+            553.4267879041888,
+            441.5
+          ],
+          "link": "Tempio di Nepthys",
+          "layer": "%5B%5Bscene_flow.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb589afb29f8",
+          "type": "default",
+          "loc": [
+            415.38944378516567,
+            439.5
+          ],
+          "link": "Lo Spacca Gambe",
+          "layer": "%5B%5Bscene_flow.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8baa08e98a3b",
+          "type": "default",
+          "loc": [
+            291.35588819995644,
+            463.5
+          ],
+          "link": "Charlie Dice la Verità",
+          "layer": "%5B%5Bscene_flow.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5899289aea0b",
+          "type": "default",
+          "loc": [
+            808.1623291038795,
+            678.833251953125
+          ],
+          "link": "Cosa Sanno i Poliziotti",
+          "layer": "%5B%5Bscene_flow.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_48d81839a96a",
+          "type": "default",
+          "loc": [
+            678.1271498613215,
+            663.833251953125
+          ],
+          "link": "Intervistando i Vicini",
+          "layer": "%5B%5Bscene_flow.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f9fb78396b48",
+          "type": "default",
+          "loc": [
+            549.0922412283215,
+            664.833251953125
+          ],
+          "link": "Appartamento di George",
+          "layer": "%5B%5Bscene_flow.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b0a6bb8f8c8",
+          "type": "default",
+          "loc": [
+            420.05733259532167,
+            670.833251953125
+          ],
+          "link": "Addie Ha Bisogno di Risposte",
+          "layer": "%5B%5Bscene_flow.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_094a993ba879",
+          "type": "default",
+          "loc": [
+            284.25309903991985,
+            665.6231258124396
+          ],
+          "link": "Un Uomo è Scomparso",
+          "layer": "%5B%5Bscene_flow.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4464273144281956,
+            -0.21534325684842412
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1b2baa99e8ab",
+          "type": "default",
+          "loc": [
+            160.6759704658964,
+            664.1666259765625
+          ],
+          "link": "Irrompendo nelle Fullers",
+          "layer": "%5B%5Bscene_flow.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fb49696a7819",
+          "type": "default",
+          "loc": [
+            682.1504222833214,
+            889.1666259765625
+          ],
+          "link": "La Cosa nell'Obitorio",
+          "layer": "%5B%5Bscene_flow.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0a9aca09a868",
+          "type": "default",
+          "loc": [
+            544.1130781642983,
+            887.1666259765625
+          ],
+          "link": "Domandando a Pearl",
+          "layer": "%5B%5Bscene_flow.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f8a93afb38f8",
+          "type": "default",
+          "loc": [
+            410.0768164835076,
+            879.1666259765625
+          ],
+          "link": "La Macchina Miracolosa",
+          "layer": "%5B%5Bscene_flow.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b9c8b86b9959",
+          "type": "default",
+          "loc": [
+            286.37666408426014,
+            876.833251953125
+          ],
+          "link": "Andando sulla Griglia",
+          "layer": "%5B%5Bscene_flow.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cb6a0bf9d838",
+          "type": "default",
+          "loc": [
+            158.67542924678014,
+            903.4998779296875
+          ],
+          "link": "Risoluzione",
+          "layer": "%5B%5Bscene_flow.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Summary.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": -1,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "60%",
+    "image": "[[Relationship Map.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Relationship Map.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 1,
+    "minZoom": -1.5,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 0.09328358208955223,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.5,
+    "zoomFeatures": false,
+    "id": 1,
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        1024,
+        1024
+      ]
+    ],
+    "width": "75%",
+    "lat": 512,
+    "long": 512,
+    "unit": "mi",
+    "recenter": false,
+    "darkmode": false,
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

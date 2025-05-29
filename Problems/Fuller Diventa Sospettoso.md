@@ -1,0 +1,1 @@
+Quando [[Howard Fuller]] nota la mancata lettera, fa 2 + 2 (o se ti vede prenderla). Sospetta che tu voglia prenderlo come target nel tuo prossimo articolo. Richiede un **Push** se vuoi fargli altre domande.

@@ -1,0 +1,1 @@
+Hai scelto questo mestiere per fare la differenza, non per fare soldi. Ma anche con i lavoretti che raccatti qua e là in redazione, non sai mai se riuscirai a pagare l’affitto del mese prossimo

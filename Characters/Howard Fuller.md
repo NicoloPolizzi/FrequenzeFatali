@@ -1,0 +1,3 @@
+47 anni, proprietario della [[Riparazioni Elettriche Fuller]]. 
+Spietatamente competitivo negli affari, Fuller trascorre le sue giornate in un ufficio al piano superiore da cui osserva il lavoro dei suoi operai. Potrebbe risolvere l’enigma della scomparsa di [[George Preston]], ma farlo lo costringerebbe a rivelare il vero creatore della macchina che spera di spacciare come una sua invenzione. 
+Potrebbe anche sollevare domande su altre sparizioni successive.
