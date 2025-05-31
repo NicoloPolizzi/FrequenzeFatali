@@ -13,14 +13,14 @@ Che rispetti o meno il lavoro di Viv come giornalista investigativa, Howard Full
     
 - (Core, **“[[Affascinante Charlie]]”**) Se Viv vuole sapere di più su George, dovrebbe parlare con **[[Charlie Fitzpatrick]]**. Fuller lo indica giù in officina. Loro due sono cresciuti insieme, e ancora oggi sono inseparabili. È stato George a convincerlo ad assumere Charlie.
     
-- (Alternate, **“[[Cosa sanno i poliziotti]]”**) Ha mai pensato che George potesse essere un assassino? No, ma quei tipi sensibili... e la polizia ha messo insieme un caso solido. Perché sarebbe scappato, altrimenti?
+- (Alternate, **“[[Cosa Sanno i Poliziotti]]”**) Ha mai pensato che George potesse essere un assassino? No, ma quei tipi sensibili... e la polizia ha messo insieme un caso solido. Perché sarebbe scappato, altrimenti?
     
 - (Core, **“[[Appartamento di George]]”**) George non lascia mai la macchina qui: dev’essersela portata a casa.
     
 - Crede che la macchina abbia a che fare con **onde radio**, ma non ne sa molto. George era piuttosto riservato.  
     _(Non del tutto falso: Fuller sta cercando gli **schemi tecnici**.)_
     
-- (Core, **“[[Tempio di Nephti]]”**) O in risposta a una domanda su una certa ragazza menzionata da Charlie, o ricordandolo proprio mentre Viv sta per uscire, Fuller accenna a un’altra donna che si è fatta viva sabato per chiedere di George.  
+- (Core, **“[[Tempio di Nephthys]]”**) O in risposta a una domanda su una certa ragazza menzionata da Charlie, o ricordandolo proprio mentre Viv sta per uscire, Fuller accenna a un’altra donna che si è fatta viva sabato per chiedere di George.  
     “**[[Pearl Leblanc|Pearl]]** qualcosa... Mi ha lasciato un biglietto. Ah, eccolo.”  
     Da sotto un mucchio di carte tira fuori un biglietto da visita con scritto:  
     **[[Madame Isis]] Neferi**, un numero di telefono, un indirizzo a Brooklyn Heights, e la dicitura **Tempio di Nephthys**.  
@@ -35,12 +35,12 @@ Le sue affermazioni sulla macchina, se viene incalzato, **fanno scattare lieveme
 Se Viv gli chiede un commento sulla possibile **sostituzione di George** e su quello che ha sentito dire dagli uomini fuori, Fuller parte con un discorso infuocato sugli **standard della Fuller’s**. Quegli uomini magari andavano bene per qualcun altro, ma non per lui.
 
 Nonostante gli sforzi di **Petunia Adams**, la scrivania di Fuller è un caos di lettere, ricevute, fatture e giornali. Viv nota una **busta aperta** indirizzata a George Preston, con la scritta “**Personale**” in una grafia ordinata (se la giocatrice lo chiede, una prova di **Raccolta Indizi** può rivelare che quella stessa calligrafia compare su altre buste — segno che è Petunia ad aprire e smistare la posta).  
-Viv può tentare un test di **Furtività (Filch)** per far sparire la lettera nella sua borsetta mentre Fuller si ascolta parlare da solo, oppure un test di **Persuasione (Push Bargain)** suggerendo che la lettera spetterebbe alla fidanzata di George.
+Viv può tentare un test di **Furtività (Filch)** per far sparire la lettera nella sua borsetta mentre Fuller si ascolta parlare da solo, oppure un test di **Persuasione (Push Bargain)** suggerendo che la [[Lettera]] spetterebbe alla fidanzata di George.
 
 
 # OUT
 - [[Affascinante Charlie]]
-- [[Tempio di Nephti]]
+- [[Tempio di Nephthys]]
 - [[Appartamento di George]]
 - [[Cosa Sanno i Poliziotti]]
-- [[L’Investigatrice Psichica]]
+- [[L’investigatore psichico]]

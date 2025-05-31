@@ -1,0 +1,1 @@
+Qualsiasi cosa tu stia provando per [[Charlie Fitzpatrick]], non è professionale 

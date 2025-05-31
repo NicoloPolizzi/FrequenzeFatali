@@ -1,0 +1,2 @@
+Per quanto tempo ti ha seguito senza che te ne accorgessi? Era lui l'uomo che hai visto nascosto l'altra notte? Non puoi fare a meno di guardarti molto di più le spalle per questo
+-  -2 per la tua prossima prova su Cool o Stability. Poi scarta

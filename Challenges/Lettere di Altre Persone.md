@@ -1,7 +1,8 @@
+**Mano Lesta**
 - **Avanzato (Risultato 4+):** 
 	Riesci a sottrarre la lettera senza farti notare.  
 	**Vantaggio Immediato:** Ottieni accesso alla scena alternativa 
-	"**[[L’Investigatrice Psichica]]**".
+	"**[[L’investigatore psichico]]**".
 
 - **In Bilico (Risultato 2–3):** 
 	Mentre le tue dita sfiorano il bordo della lettera, [[Howard Fuller]] ti guarda negli occhi e comincia a spostare lo sguardo verso il basso.  

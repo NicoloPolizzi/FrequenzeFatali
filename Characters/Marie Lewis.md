@@ -1,0 +1,1 @@
+Ex collega di [[Nettie Rice]], lavora come centralinista alla Consolidated Gas. Può determinare chi usa la macchina

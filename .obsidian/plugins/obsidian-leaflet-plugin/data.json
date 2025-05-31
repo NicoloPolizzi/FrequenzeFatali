@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": 1,
-      "lastAccessed": 1748609610592,
+      "lastAccessed": 1748636337190,
       "markers": [
         {
           "id": "ID_688bab0a4ab8",
@@ -183,7 +183,7 @@
     },
     {
       "id": 2,
-      "lastAccessed": 1748609610592,
+      "lastAccessed": 1748675560657,
       "markers": [
         {
           "id": "ID_b96b2b09697a",
@@ -396,7 +396,7 @@
             420.05733259532167,
             670.833251953125
           ],
-          "link": "Addie Ha Bisogno di Risposte",
+          "link": "Addie Cerca Risposte",
           "layer": "%5B%5Bscene_flow.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -467,7 +467,7 @@
             544.1130781642983,
             887.1666259765625
           ],
-          "link": "Domandando a Pearl",
+          "link": "Interrogare Pearl",
           "layer": "%5B%5Bscene_flow.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -484,7 +484,7 @@
             410.0768164835076,
             879.1666259765625
           ],
-          "link": "La Macchina Miracolosa",
+          "link": "Macchina Miracolosa",
           "layer": "%5B%5Bscene_flow.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -501,7 +501,7 @@
             286.37666408426014,
             876.833251953125
           ],
-          "link": "Andando sulla Griglia",
+          "link": "Collegarsi alla Rete",
           "layer": "%5B%5Bscene_flow.png%5D%5D",
           "mutable": true,
           "command": false,

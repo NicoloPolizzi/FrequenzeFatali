@@ -1,0 +1,9 @@
+Dopo aver sistemato la faccenda con [[Howard Fuller]], [[Vivian Sinclair]] può riferire tutto alla fidanzata di [[George Preston]]. Quanto deciderà di rivelare dipende dalla giocatrice. Forse [[Sadie Cain]] ha solo bisogno di sapere che il dispositivo del suo fidanzato ha avuto un malfunzionamento, uccidendolo, e che il suo capo ha cercato di insabbiare tutto. Sadie lo piange, ma accetta che a volte i grandi inventori pagano un prezzo per il loro genio. Viv ha l’impressione che, anche se Sadie riuscirà ad andare avanti con la sua vita, canonizzerà sempre George nella sua mente.
+
+Viv può usare Vantaggi come “[[Brava Cittadina]]” o “[[Rispetto di Marty]]” per convincere qualcuno ad aiutare Sadie a trovare un altro lavoro.
+
+Viv ha lasciato Fuller vivo e non ha chiamato la polizia? In tal caso, Petunia Adams lo trova la mattina seguente, impiccato alla passerella di ferro che conduce al suo ufficio. Viv ne viene a sapere quando un collega giornalista, che sta seguendo la storia, si ricorda del suo interesse per quel posto.
+
+Se Viv ha recuperato gli schemi ma non li ha distrutti, torna a casa qualche giorno dopo e scopre dalla padrona di casa che la polizia ha fatto irruzione nel suo appartamento e ha confiscato dei disegni, dicendo che erano stati rubati da un’indagine in corso. Viv può solo immaginare dove potrebbero essere finiti.
+
+Quanto a [[Charlie Fitzpatrick]], se in qualche modo è sopravvissuta all’orrore, Viv può cercare di riallacciare i rapporti — ma scopre che Charlie intende lasciare la città insieme a sua madre e sua sorella. Vuole mettere quanta più distanza possibile tra sé e quegli orrori — anche se sa che non potrà mai davvero scrollarsi di dosso ciò che ha scoperto.

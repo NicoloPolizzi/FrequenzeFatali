@@ -1,0 +1,1 @@
+Altri reporter vanno a letto col dolore, ma tu eri sicura che non saresti mai stata tu. Speri solo che quando [[Marty Boccalarga]] chiamerà, sarà un gentlemen abbastanza da lasciarti in pace dopo. 

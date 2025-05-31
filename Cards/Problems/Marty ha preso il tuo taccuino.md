@@ -1,0 +1,1 @@
+Se pensavi che [[Marty Boccalarga]] volesse te, hai un altro pensiero che ti viene incontro, sorella. Marty vuole sapere cosa sai tu. Marty potrebbe dartelo indietro per soldi o informazioni

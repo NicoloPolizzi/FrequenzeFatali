@@ -1,0 +1,1 @@
+Vicino di [[George Preston]], morto

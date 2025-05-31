@@ -1,0 +1,1 @@
+- Spendi per un dado extra su prove di Atletica o Combattimento

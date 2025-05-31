@@ -1,0 +1,2 @@
+Hai protestato un po’ troppo energicamente che vuoi solo informazioni su [[George Preston]], e hai ottenuto una reazione più grande di quanto ti aspettassi. 
+Il Master fa intervenire alcuni uomini con teorie casuali e contrastanti, finché non effettui un **Test Rapido di Furtività** per lasciarli a discutere tra loro oppure perdi un’ora o due ad ascoltarli tutti

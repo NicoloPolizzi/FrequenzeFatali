@@ -17,8 +17,6 @@ recenter: false
 darkmode: false ### marker
 ```
 
-![[Relationship Map.png]]
-
 ```leaflet  
 id: 02
 image: [[scene_flow.png]]
@@ -38,4 +36,4 @@ darkmode: false ### marker
 ```
 
 
-![[scene_flow.png]]
+[[Inizio]]

@@ -5,8 +5,44 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Cards/Problems  ",
+      "color": {
+        "a": 1,
+        "rgb": 16057605
+      }
+    },
+    {
+      "query": "path:Cards/Advantages  ",
+      "color": {
+        "a": 1,
+        "rgb": 15642415
+      }
+    },
+    {
+      "query": "path:Characters  ",
+      "color": {
+        "a": 1,
+        "rgb": 4530430
+      }
+    },
+    {
+      "query": "path:Challenges  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:Scenes  ",
+      "color": {
+        "a": 1,
+        "rgb": 61941
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
+  "scale": 1.000000000000003,
   "close": true
 }
