@@ -1,1 +1,5 @@
-Ogni buon reporter ricorda almeno una volta in cui il suo fiuto per la notizia lo ha messo in pericolo. Tu, invece? Ricordi giusto quelle rare volte in cui **non** è successo
+**CONTINUO**
+
+Vai da zero a bollore in un battito di ciglia. Che sia per giustizia o per dignità personale, mette a dura prova le tue relazioni e anche il tuo lavoro
+
+[[Ingiuria Immeritata]]

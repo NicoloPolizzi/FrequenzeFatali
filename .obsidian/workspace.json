@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Summary"
             }
+          },
+          {
+            "id": "749933d81253b49f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "MacAdams",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,34 +182,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "491c08affc67e97e",
+  "active": "749933d81253b49f",
   "lastOpenFiles": [
     "Summary.md",
+    "Cards/Problems/Tirare avanti a fatica.md",
+    "Cards/Problems/Testa calda.md",
+    "Challenges/Ingiuria Immeritata.md",
+    "Cards/Problems/Nessun Buon Affare.md",
+    "Cards/Problems/Tutto per uno scoop.md",
+    "Challenges/Sfuggi alla sua Vista.md",
+    "Cards/Problems/Vestito strappato.md",
+    "Challenges/Amori Passati.md",
+    "Cards/Problems/Debole per un bel viso.md",
+    "Challenges/Entrare nell'Obitorio.md",
+    "Cards/Advantages/Rispetto di Marty.md",
+    "Challenges/Ladro di Borsa.md",
+    "Challenges/Convincere l'Editore.md",
+    "Cards/Advantages/Perdurare Paga.md",
+    "Da Mani a Bocca.md",
+    "Cards/Problems/In Prova.md",
+    "Scenes/La Cosa nell'Obitorio.md",
+    "Cards/Problems/Entrare è più facile che uscire.md",
+    "Cards/Advantages/Ancora un Castello.md",
+    "Challenges/Lotta contro l'Uomo di Fuller.md",
+    "Scenes/Macchina Miracolosa.md",
+    "Cards/Problems/Sfrattata.md",
+    "Challenges/Aggredita da Marty.md",
     "Scenes/Risoluzione.md",
     "Scenes/Irrompere da Fuller.md",
-    "Cards/Advantages/Brava Cittadina.md",
-    "Challenges/Legata alla Sedia.md",
-    "Affrontare la Bestia.md",
-    "Scenes/Fuller Confessa.md",
-    "Challenges/Lottare contro Fuller.md",
-    "Challenges/Schivare il Cloroformio.md",
-    "Challenges/Corpo sulla sedia.md",
-    "Challenges/Sono venuti da Oltre.md",
-    "Cards/Problems/Inseguita dai Ricordi.md",
-    "Challenges/Guardare il Divoratore.md",
-    "Cards/Problems/Insensibile.md",
-    "Cards/Problems/Debole per un bel viso.md",
-    "Cards/Problems/Nervi a fior di pelle.md",
-    "Cards/Advantages/Sangue freddo.md",
-    "Cards/Problems/Sconvolta.md",
-    "Cards/Advantages/Imperturbabile.md",
-    "Scenes/Charlie Dice la Verità.md",
-    "Scenes/Un Uomo è Scomparso.md",
-    "Challenges/Oltrepassare le Guardie.md",
-    "Cards/Problems/Sbruffona.md",
-    "Cards/Advantages/Sulle Spine.md",
-    "Scenes/Collegarsi alla Rete.md",
-    "Cards/Problems/Due padroni.md",
     "Cards/Advantages",
     "Cards",
     "Challenges",

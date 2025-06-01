@@ -21,4 +21,4 @@
         Ma **a quale costo per il suo senso etico**… e per il caso?
         
 - **Problema Extra**:  
-    **Problema 14 – “[[Nessuna buona azione resta impunita]]”** (“No Good Deed”).
+    **Problema 14 – “[[Nessun Buon Affare]]”** (“No Good Deed”).

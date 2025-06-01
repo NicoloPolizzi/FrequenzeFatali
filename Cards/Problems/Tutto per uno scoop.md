@@ -1,1 +1,5 @@
-Hai scelto questo mestiere per fare la differenza, non per fare soldi. Ma anche con i lavoretti che raccatti qua e là in redazione, non sai mai se riuscirai a pagare l’affitto del mese prossimo
+**CONTINUO**
+
+Ogni bravo reporter ricorda quella volta che il naso per una storia l'ha messo in pericolo. Tu, d'altra parte, ricordi quella volta o due in cui *non l'ha fatto*
+
+[[Sfuggi alla sua Vista]]

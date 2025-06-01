@@ -41,4 +41,4 @@ MacAdams arriva in un’auto civetta e accompagna Viv a casa. Durante il tragitt
 
 Quando la lascia davanti a casa (o al lavoro, se è giorno), aggiunge che non la accompagna dentro per salvare la sua reputazione, ma la minaccia vagamente dicendo che si rifarà vivo se la sente ancora immischiarsi in questo caso.
 
-Vedi anche “Reazioni degli Antagonisti.”
+Quando Viv si fa vedere di nuovo a lavoro, il suo editore la chiama per una chiacchierata sul detective che l'ha accompagnata. [[Convincere l'Editore]]

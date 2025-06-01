@@ -34,4 +34,6 @@ Se Viv porta gli schemi a **Charlie** sul luogo di lavoro, **Mr. [[Howard Fuller
 
 **Challenge**: [[Denaro Contante]]
 
-Rifiutare l’offerta potrebbe portare a **una Reazione dell’Antagonista** più avanti nella storia.
+Rifiutare l’offerta potrebbe portare a **una Reazione dell’Antagonista** più avanti nella storia:
+
+Un uomo di Fuller cerca di entrare nell'appartamento di Viv per rubare gli schemi. [[Lotta contro l'Uomo di Fuller]]

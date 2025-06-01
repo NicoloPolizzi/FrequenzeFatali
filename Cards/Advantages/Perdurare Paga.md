@@ -1,0 +1,2 @@
+Convinci il tuo editore che il giornale è davvero fortunato ad averti nel suo staff. Non solo rigiri la situazione, ma riesci pure a prendere un aumento. 
+- Counterato dal **Problema 2: [[Tirare avanti a fatica]]**
