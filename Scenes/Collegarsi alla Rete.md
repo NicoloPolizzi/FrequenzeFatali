@@ -1,6 +1,6 @@
 #### Poco a est di Union Square, l’edificio di 26 piani della Consolidated Gas si distingue più per il **tempietto in miniatura** e il **gigantesco lanterno di bronzo** sulla sua sommità che per il suo enorme orologio. Anche se Viv **non è mai entrata nell’edificio**, è abituata a **usarlo come punto di riferimento** grazie alla sua illuminazione notturna.
 
-Il contatto di [[Vivian Sinclair]], **[[Marie Lewis]]**, lavora in un **ufficio aperto e sovraffollato** su uno dei piani intermedi. Lei e le sue colleghe centraliniste rispondono alle telefonate, **mappano i luoghi e i tipi di guasti**, e inoltrano i messaggi alle squadre di manutenzione. Il processo richiede **molta frenesia**, telefonate interne e appunti.
+Il contatto di [[Orietta Sullivan]], **[[Marie Lewis]]**, lavora in un **ufficio aperto e sovraffollato** su uno dei piani intermedi. Lei e le sue colleghe centraliniste rispondono alle telefonate, **mappano i luoghi e i tipi di guasti**, e inoltrano i messaggi alle squadre di manutenzione. Il processo richiede **molta frenesia**, telefonate interne e appunti.
 
 ---
 

@@ -6,7 +6,7 @@ Come spesso accade con i testimoni di un evento, anche minore, **i vicini di [[M
     
 - Tutto si è fermato un attimo **dopo l’urlo di Fink**. Le luci sono tornate alla massima intensità e le… _cose_… sono sparite. (Vedi “August Williams” più sotto.)
     
-- (_Collegamento: “[[La Cosa nell'Obitorio]]”_) Chiunque parli a [[Vivian Sinclair]] del **cadavere di Fink**, lancia prima un’occhiata a [[Clarence Simpson]] (se presente), poi **abbassa la voce in un sussurro cospiratorio**. Magari [[George Preston]] l’ha ucciso, ma non capiscono come… perché **è stato morso a metà!** La polizia **non ha mai trovato la parte inferiore del suo corpo.**
+- (_Collegamento: “[[La Cosa nell'Obitorio]]”_) Chiunque parli a [[Orietta Sullivan]] del **cadavere di Fink**, lancia prima un’occhiata a [[Clarence Simpson]] (se presente), poi **abbassa la voce in un sussurro cospiratorio**. Magari [[George Preston]] l’ha ucciso, ma non capiscono come… perché **è stato morso a metà!** La polizia **non ha mai trovato la parte inferiore del suo corpo.**
     
 
 ---

@@ -1,4 +1,4 @@
-**La lettera che [[Vivian Sinclair]] può sottrarre dalla scrivania di Fuller**, o i **libri che trova nell’appartamento di [[George Preston]]**, possono spingerla a consultare **[[Hereward Carrington]]**, investigatore psichico. (Investigatore _di_ medium, non un detective che risolve i crimini _con_ poteri psichici.)
+**La lettera che [[Orietta Sullivan]] può sottrarre dalla scrivania di Fuller**, o i **libri che trova nell’appartamento di [[George Preston]]**, possono spingerla a consultare **[[Hereward Carrington]]**, investigatore psichico. (Investigatore _di_ medium, non un detective che risolve i crimini _con_ poteri psichici.)
 
 ---
 

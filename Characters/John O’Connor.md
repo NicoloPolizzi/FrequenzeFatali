@@ -1,1 +1,1 @@
-Tenente amico di [[Vivian Sinclair]]
+Tenente amico di [[Orietta Sullivan]]

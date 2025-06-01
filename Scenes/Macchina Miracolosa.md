@@ -1,4 +1,4 @@
-[[Vivian Sinclair]] può portare gli schemi della macchina di [[George Preston]] alla sua Fonte scientifica, **[[Nettie Rice]]**, oppure a **[[Charlie Fitzpatrick]]** per la sua esperienza in campo elettrico.  
+[[Orietta Sullivan]] può portare gli schemi della macchina di [[George Preston]] alla sua Fonte scientifica, **[[Nettie Rice]]**, oppure a **[[Charlie Fitzpatrick]]** per la sua esperienza in campo elettrico.  
 Se la giocatrice possiede la carta _“[[Punto Debole]]”_ (“Soft Spot”) e non considera da sola l’idea di contattare Charlie, il GM dovrebbe suggerirlo. Come da prassi con le carte Problema, il desiderio di rivedere Charlie prepara Viv a ulteriori guai — stavolta con **[[Howard Fuller]]**.
 
 **Nettie** sposta pile di documenti sul pavimento per liberare spazio sulla scrivania e analizzare gli schemi.  
