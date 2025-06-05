@@ -29,5 +29,5 @@ In risposta a domande specifiche, Sadie rivela:
 
 # Out
 - [[Riparazioni Elettriche Fuller]]
-- [[La Particolare Morte di Myron Fink]]
+- [[La Strana Morte di Myron Fink]]
 - [[Cosa Sanno i Poliziotti]]

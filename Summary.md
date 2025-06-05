@@ -37,3 +37,6 @@ darkmode: false ### marker
 
 
 [[Inizio]]
+![[Ambient Noir.mp3]]
+![[Dark Tense Noir.mp3]]
+![[Sensual Noir.mp3]]
