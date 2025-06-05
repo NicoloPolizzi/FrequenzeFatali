@@ -1,4 +1,4 @@
-Se **[[Clarence Simpson]] accompagna [[Orietta Sullivan]]**, si appoggia contro la porta chiusa: **braccia incrociate, annusando l’aria, osservando**.
+Se **[[Clarence Simpson]] accompagna [[Dorian Vane]]**, si appoggia contro la porta chiusa: **braccia incrociate, annusando l’aria, osservando**.
 
 I vestiti di **[[George Preston]]** sono ordinatamente appesi nell’armadio, ma i **detective della polizia** che hanno perquisito l’appartamento hanno lasciato **alcuni cassetti della scrivania leggermente aperti** e hanno **forzato la serratura del cassetto centrale**.
 

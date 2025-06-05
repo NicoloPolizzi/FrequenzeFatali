@@ -1,4 +1,4 @@
-Se [[Orietta Sullivan]] ha successo con **Vantaggio** in una delle sue interazioni con [[Pearl Leblanc]], riesce a **trascinare la ragazza** di nuovo dentro l’appartamento o fuori per strada (a seconda di cosa abbia più senso nella narrazione dopo la lotta).  
+Se [[Dorian Vane]] ha successo con **Vantaggio** in una delle sue interazioni con [[Pearl Leblanc]], riesce a **trascinare la ragazza** di nuovo dentro l’appartamento o fuori per strada (a seconda di cosa abbia più senso nella narrazione dopo la lotta).  
 Riesce a farle **qualche domanda prima che la sospettata, spaventata, si chiuda a riccio**.
 
 **Pearl LeBlanc** sembra avere circa **diciassette o diciotto anni**. Indossa un **tailleur semplice**, su misura per qualcuno leggermente più grande: le cade un po’ addosso, come a sottolineare la sua figura ancora acerba.  

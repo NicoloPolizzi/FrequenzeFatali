@@ -1,4 +1,4 @@
-### La folla fuori dal negozio di [[Howard Fuller]] si è diradata rispetto alla prima visita di [[Orietta Sullivan]].
+### La folla fuori dal negozio di [[Howard Fuller]] si è diradata rispetto alla prima visita di [[Dorian Vane]].
 
 Forse, con la scomparsa di [[George Preston]] ormai un ricordo, **sono in meno a sperare di ottenere il suo posto**.  
 Forse i comportamenti strani degli altri uomini assunti da Fuller **hanno fatto cambiare loro idea**.  

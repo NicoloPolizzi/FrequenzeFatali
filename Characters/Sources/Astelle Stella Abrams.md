@@ -6,7 +6,7 @@ Astelle — “*il mio spirito è più da Stella*” — Abrams si muove facilme
 
 Se la sorprendi in studio, è probabile che abbia tra i capelli castani arruffati della vernice, della limatura di ferro o del gesso, a seconda della sua “fase” artistica del momento.
 
-[[Orietta Sullivan]] si è invaghita di Stella durante un’indagine sotto copertura su un traffico di droga camuffato da setta yogica. Anche dopo la fine della loro storia, Vivian è rimasta legata alla vivace bohemien, che è sempre felice di parlare delle sue passioni — passate o presenti — o, se proprio deve, anche di architettura. La personalità esuberante di Stella non si presta al contenimento delle informazioni, ma il suo modo ingenuo, quasi da scolara, di spiegare questioni legate al Mito fa sì che persino notizie sull’imminente ascesa di Cthulhu non spaventino Viv quanto lo farebbero se provenissero da qualcun altro.
+[[Dorian Vane]] si è invaghita di Stella durante un’indagine sotto copertura su un traffico di droga camuffato da setta yogica. Anche dopo la fine della loro storia, Vivian è rimasta legata alla vivace bohemien, che è sempre felice di parlare delle sue passioni — passate o presenti — o, se proprio deve, anche di architettura. La personalità esuberante di Stella non si presta al contenimento delle informazioni, ma il suo modo ingenuo, quasi da scolara, di spiegare questioni legate al Mito fa sì che persino notizie sull’imminente ascesa di Cthulhu non spaventino Viv quanto lo farebbero se provenissero da qualcun altro.
 
 **Competenze Investigative:** 
 - Architettura

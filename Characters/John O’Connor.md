@@ -1,1 +1,1 @@
-Tenente amico di [[Orietta Sullivan]]
+Tenente amico di [[Dorian Vane]]

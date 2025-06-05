@@ -2,7 +2,7 @@
 
 **Professoressa**
 
-Se, ai tempi del suo corso al Hunter College, qualcuno avesse chiesto a [[Orietta Sullivan]] quale professore sarebbe diventato suo caro amico dieci anni dopo, di certo non avrebbe nominato Nettie Rice. La gentile donna in tweed che le insegnava Scienze Naturali riusciva a rendere la materia interessante, ma non al punto da spingerla verso la carriera scientifica. Viv l’aveva quasi dimenticata, finché non si è trovata a dover chiedere assistenza scientifica durante una delle sue indagini.
+Se, ai tempi del suo corso al Hunter College, qualcuno avesse chiesto a [[Dorian Vane]] quale professore sarebbe diventato suo caro amico dieci anni dopo, di certo non avrebbe nominato Nettie Rice. La gentile donna in tweed che le insegnava Scienze Naturali riusciva a rendere la materia interessante, ma non al punto da spingerla verso la carriera scientifica. Viv l’aveva quasi dimenticata, finché non si è trovata a dover chiedere assistenza scientifica durante una delle sue indagini.
 
 Viv ammira l’energia di Nettie — come nuova direttrice del Dipartimento di Scienze Naturali al Hunter College, è sempre sommersa dalla burocrazia, eppure trova comunque il tempo per insegnare i corsi introduttivi e incontrare gli studenti. Questa costante attività, però, ha un prezzo, e la fonte della sua energia non è certo un mistero: lattine vuote di caffè sono disseminate sia nel suo ufficio che nel suo appartamento. Viv può notare le mani della sua amica tremare per l’eccesso di caffeina, o sentirla esclamare all’improvviso di essersi completamente dimenticata della cena: aveva preparato un caffè alle 16 per “aspettare un po’”, poi un altro alle 18, e adesso sono le 21:30.
 

@@ -1,2 +1,2 @@
-21 anni, la cliente. È una lavorante del settore tessile ed è fidanzata con [[George Preston]]. Crede che il suo fidanzato sia stato incastrato per un omicidio dalla polizia e chiede aiuto a [[Orietta Sullivan]] per trovarlo e dimostrare la sua innocenza. 
-È descritta come fragile e delicata, con una voce bassa e difensiva. Fornisce a [[Orietta Sullivan]] l'indirizzo di [[George Preston]] a Brooklyn e le dà una fotografia di lui
+21 anni, la cliente. È una lavorante del settore tessile ed è fidanzata con [[George Preston]]. Crede che il suo fidanzato sia stato incastrato per un omicidio dalla polizia e chiede aiuto a [[Dorian Vane]] per trovarlo e dimostrare la sua innocenza. 
+È descritta come fragile e delicata, con una voce bassa e difensiva. Fornisce a [[Dorian Vane]] l'indirizzo di [[George Preston]] a Brooklyn e le dà una fotografia di lui

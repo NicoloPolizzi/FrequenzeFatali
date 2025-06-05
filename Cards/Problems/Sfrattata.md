@@ -1,1 +1,1 @@
-La padrona di casa di [[Orietta Sullivan]] da a lei e alla sua compagna di stanza fino alla fine del mese per andarsene
+La padrona di casa di [[Dorian Vane]] da a lei e alla sua compagna di stanza fino alla fine del mese per andarsene

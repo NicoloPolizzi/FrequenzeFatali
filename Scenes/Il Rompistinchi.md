@@ -14,7 +14,7 @@ L’uomo si presenta come "Marty”.
 
 Combinando nome e mestiere, Viv può dedurre che si tratti di **“[[Marty Boccalarga]]”**, un piccolo esattore della **famiglia Luciano**.
 
-Una volta che [[Orietta Sullivan]] e Marty si sono scontrati e lei ha ottenuto la sua collaborazione, **Marty rivela quanto segue**, in risposta alle domande:
+Una volta che [[Dorian Vane]] e Marty si sono scontrati e lei ha ottenuto la sua collaborazione, **Marty rivela quanto segue**, in risposta alle domande:
 
 - Anche **lui sta cercando [[George Preston]]**. Se Viv ha ottenuto un **Avanzato in “[[Individuare Marty Boccalarga]]”**, Marty **non si sorprende** che lei l’abbia scoperto e fa riferimento a una scena precedente in cui si è quasi fatto beccare (es. “[[Appartamento di George]]”, “[[Tempio di Nephthys]]”, “L’Obitorio”).  
     Altrimenti, dice di **averla osservata a lungo**. In ogni caso, ha capito che **sono sulla stessa pista**.

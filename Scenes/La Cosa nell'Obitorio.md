@@ -1,4 +1,4 @@
-Oltre a rispondere a domande su eventi avvenuti prima dell’inizio della storia, questa scena serve anche da avvertimento per l’orrore che [[Orietta Sullivan]] potrebbe affrontare se le cose dovessero andare male per lei.
+Oltre a rispondere a domande su eventi avvenuti prima dell’inizio della storia, questa scena serve anche da avvertimento per l’orrore che [[Dorian Vane]] potrebbe affrontare se le cose dovessero andare male per lei.
 
 Viv troverà il cadavere all’obitorio ufficiale del medico legale, situato nell’edificio patologico del Bellevue Hospital, sulla East 29th Street. La folla di oltre centomila pazienti esterni che ogni giorno entra ed esce dall’ospedale le garantisce un certo anonimato, anche se si dirada vicino all’obitorio.
 
