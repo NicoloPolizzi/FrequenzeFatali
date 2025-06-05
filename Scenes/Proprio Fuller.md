@@ -13,7 +13,7 @@ Che rispetti o meno il lavoro di Viv come giornalista investigativa, Howard Full
     
 - (Core, **“[[Affascinante Charlie]]”**) Se Viv vuole sapere di più su George, dovrebbe parlare con **[[Charlie Fitzpatrick]]**. Fuller lo indica giù in officina. Loro due sono cresciuti insieme, e ancora oggi sono inseparabili. È stato George a convincerlo ad assumere Charlie.
     
-- (Alternate, **“[[Cosa Sanno i Poliziotti]]”**) Ha mai pensato che George potesse essere un assassino? No, ma quei tipi sensibili... e la polizia ha messo insieme un caso solido. Perché sarebbe scappato, altrimenti?
+- (Alternate, **“[[Cosa Sanno i Poliziotti]]”**) Ha mai pensato che George potesse essere un assassino? No, ma quei tipi sensitivi... e la polizia ha messo insieme un caso solido. Perché sarebbe scappato, altrimenti?
     
 - (Core, **“[[Appartamento di George]]”**) George non lascia mai la macchina qui: dev’essersela portata a casa.
     
