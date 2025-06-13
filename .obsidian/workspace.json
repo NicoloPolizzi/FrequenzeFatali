@@ -22,7 +22,35 @@
             }
           },
           {
-            "id": "0403e72baeb89bd8",
+            "id": "7d1e90e6b1652c04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/Problems/Due padroni.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Due padroni"
+            }
+          },
+          {
+            "id": "ad187fd2a12481d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/Advantages/Riflessi pronti.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Riflessi pronti"
+            }
+          },
+          {
+            "id": "74a70d226b4f9d07",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,6 +61,20 @@
               },
               "icon": "lucide-file",
               "title": "Piede Sicuro"
+            }
+          },
+          {
+            "id": "f2cb6000807c4101",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/Problems/Nervi a fior di pelle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nervi a fior di pelle"
             }
           },
           {
@@ -50,7 +92,7 @@
             }
           },
           {
-            "id": "7104f89f85660155",
+            "id": "ccbe9612da42ea59",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -61,6 +103,26 @@
               },
               "icon": "lucide-file",
               "title": "Debole per un bel viso"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c4020a9b518f54f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a05b302b40c2965",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Summary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Summary"
             }
           }
         ]
@@ -120,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 216.5
   },
   "right": {
     "id": "cf6c69d49d69d85d",
@@ -216,47 +278,47 @@
   },
   "active": "7062ccbc9f6a8a59",
   "lastOpenFiles": [
+    "Scenes/Il Rompistinchi.md",
+    "Cards/Problems/Due padroni.md",
+    "Cards/Problems/Nervi a fior di pelle.md",
+    "Cards/Advantages/Riflessi pronti.md",
+    "Cards/Advantages/Piede Sicuro.md",
+    "Challenges/Aggredita da Marty.md",
+    "Challenges/Individuare Marty Boccalarga.md",
+    "Cards/Problems/Caviglia slogata.md",
+    "Cards/Problems/Debole per un bel viso.md",
+    "Summary.md",
+    "Scenes/Tempio di Nephthys.md",
+    "Characters/Pearl Leblanc.md",
+    "z_music/Sensual Noir.mp3",
+    "z_music/Ambient Noir.mp3",
+    "z_music/Dark Tense Noir.mp3",
+    "z_music",
     "Scenes/Interrogare Pearl.md",
     "Challenges/Catturando la Forse Intrusa.md",
-    "Cards/Advantages/Piede Sicuro.md",
-    "Cards/Problems/Caviglia slogata.md",
     "Scenes/Appartamento di George.md",
     "Scenes/Intervistare i vicini.md",
     "Scenes/La Strana Morte di Myron Fink.md",
     "Characters/Myron Fink.md",
     "Characters/Dorian Vane.md",
-    "Summary.md",
     "Scenes/La Storia Triste di Sadie.md",
-    "Cards/Problems/Debole per un bel viso.md",
     "Cards/Problems/Testa calda.md",
     "Cards/Problems/Sopravvivere alla giornata.md",
     "Cards/Problems/Tutto per uno scoop.md",
     "Scenes/Inizio.md",
     "Scenes/Cosa Sanno i Poliziotti.md",
     "Scenes/Riparazioni Elettriche Fuller.md",
-    "Scenes/Affascinante Charlie.md",
-    "Scenes/Proprio Fuller.md",
-    "z_music/Ambient Noir.mp3",
-    "Scenes/La Particolare Morte di Myron Fink.md",
-    "z_music/Dark Tense Noir.mp3",
-    "z_music/Sensual Noir.mp3",
     "z_music",
     "z_Images/Stella.png",
-    "Characters/Sources/Annette Nettie Rice.md",
-    "Characters/Sources/Astelle Stella Abrams.md",
-    "Characters/Sources/Louisa Reynolds.md",
     "z_Images/Louisa.png",
-    "Characters/Sources/Esteban Manuel Aragon Gonzalez.md",
     "z_Images/Esteban.png",
     "z_Images/Annette.png",
-    "Characters/Sources/Myrna Betty Cohen.md",
     "z_Images/Myrna.png",
     "Characters/Sources",
     "Cards/Advantages",
     "Cards",
     "Challenges",
     "Scenes",
-    "Cards/Problems",
     "z_Images/scene_flow.png",
     "z_Images/Relationship Map.png"
   ]
